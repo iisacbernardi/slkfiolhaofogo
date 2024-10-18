@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fogo{
+    background-image: url(slkfiolhaofogo.gif);
+    background-size: cover;
+    background-position: center;
+    color: transparent;
+    background-clip: text;
+}
+h1{
+    font-weight: 900;
+    font-size: 60px;
+}
+h1:hover{
+    background-image: url(oiaacor.gif);
+    background-size: cover;
+    background-position: center;
+    color: transparent;
+    background-clip: text;
+}
